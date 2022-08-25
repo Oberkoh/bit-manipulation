@@ -1,4 +1,4 @@
-# bit-manipulation
+# Bit Manipulation
 - Binary Numbers
 - Bitwise AND
 - Bitwise OR
